@@ -1,4 +1,5 @@
 #This is an exemple of exercise using Matplotlib
+#If you want to know more, go to my medium: https://medium.com/@vitor.yagocp/data-analyst-journey-4-first-exercise-only-matplotlib-1153dc82b68e
 #Data provides sales information for a store located in a city of 1,500,000 people
 #The store sells adult and children's prodcuts and is located in a large shopping mall in the city
 #Which quick conclusions can you reach just using Matplotlib?
